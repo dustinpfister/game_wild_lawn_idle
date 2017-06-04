@@ -1,0 +1,19 @@
+{
+
+    "name" : "grass plants",
+    "type" : "Plant",
+    "items" : [{
+
+            "name" : "Eremochloa",
+            "fert_min" : 3
+
+        }, {
+
+            "name" : "Bluegrass",
+            "fert_min" : 8
+
+        }
+
+    ]
+
+}
