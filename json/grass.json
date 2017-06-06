@@ -5,12 +5,12 @@
     "items" : [{
 
             "name" : "Eremochloa",
-            "fert_min" : 3
+            "fert_min" : 1
 
         }, {
 
             "name" : "Bluegrass",
-            "fert_min" : 8
+            "fert_min" : 15
 
         }
 
