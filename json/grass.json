@@ -5,12 +5,14 @@
     "items" : [{
 
             "name" : "Eremochloa",
-            "fert_min" : 1
+            "fert_min" : 1,
+            "spread_chance" : 1
 
         }, {
 
             "name" : "Bluegrass",
-            "fert_min" : 15
+            "fert_min" : 15,
+            "spread_chance" : 0.1
 
         }
 
